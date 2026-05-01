@@ -1,3 +1,3 @@
 # mynewrepo
-testing new repo
-its awesome.
+testing new repo<br>
+Author: Naveed Akhtar
